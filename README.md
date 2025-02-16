@@ -14,5 +14,18 @@ PressAgent is an AI tool that creates press kits and evaluates their quality.
 1. Clone the repository:
    git clone https://github.com/mahithachopra/PressAgent.git
 
+2. Install dependencies:
+   pip install -r requirements.txt
+
+3.Run the Web UI (Streamlit App):
+   streamlit run app.py
+
+
+[Presskit.pdf](https://github.com/user-attachments/files/18813691/Presskit.pdf)
+
+
+
+
+
 
 
