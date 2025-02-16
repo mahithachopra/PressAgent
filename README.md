@@ -1,7 +1,4 @@
-"# PressAgent" 
-"# PressAgent" 
-"# PressAgent" 
-"# PressAgent" 
+
 # PressAgent: AI-Powered Press Kit Generator
 
 ## 📌 Overview
@@ -15,5 +12,7 @@ PressAgent is an AI tool that creates press kits and evaluates their quality.
 
 ## 📥 Installation
 1. Clone the repository:
+   git clone https://github.com/mahithachopra/PressAgent.git
+
 
 
